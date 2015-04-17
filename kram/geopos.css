@@ -1,0 +1,34 @@
+html,body{
+  margin:0;
+  padding:0;
+  border:0;
+}
+body{
+	background:#fff;
+	width: 458px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.searchinput { 
+	background-color: #fff; 
+	width: 360px; 
+	float: left; 
+	font-weight: bold;
+}
+
+
+
+
+
+#map{
+	width: 458px;
+	height: 380px;
+	border: 1px solid #8B846A;
+	background-color: #E6DCB9;
+}
+
+.codeBox { padding: 0 10px; border: solid 1px #90a975; background-color: #fff; }
+.code   { font-size: 12px; font-family: Courier, "Courier New", Monaco, monospace, Verdana; cursor: text; }
+
+

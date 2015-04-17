@@ -1,0 +1,16 @@
+
+table.mapbaker {border-collapse:collapse; XXborder-top: 2px solid #ddd}
+
+
+table.mapbaker td {border-bottom: 1px solid #ddd; vertical-align:top;}
+table.mapbaker td.mapbaker_cat_icon {border-bottom: none}
+
+table.mapbaker .mapbaker_cat td {border-bottom: 1px solid #ddd; vertical-align:bottom; background:#eee;}
+.mapbaker_cat .mapbaker_name {font-size:14px; font-weight:bold;}
+
+.mapbaker_active0 td, .mapbaker_active0 td a {color:#999 ! important;}
+
+
+/*Modify marker*/
+table.mapbaker iframe {border:none;}
+

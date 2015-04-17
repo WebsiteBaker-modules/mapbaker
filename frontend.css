@@ -1,0 +1,22 @@
+
+
+/*Optional List Example with 2 Cols */
+.map_list_output {width:100%; overflow:hidden;}
+.map_list_output .cat_block {clear:both; width:102%; }
+.map_list_output .cat_block h3 {margin:10px 0 0 0;}
+
+.map_list_output .map_item {float:left; width:48%; margin:0 1.5% 10px 0; height:120px; border: 1px solid #999;}
+.map_list_output .map_item .map_item_inner {margin:5px;}
+
+
+
+/*Optional List Example with 1 Col for Sidebar
+
+.map_list_output {width:100%; overflow:hidden;}
+.map_list_output .cat_block {clear:both; width:100%; }
+.map_list_output .cat_block h3 {margin:10px 0 0 0;}
+
+.map_list_output .map_item {margin: 10px 0 10px 0; border: 1px solid #999;}
+.map_list_output .map_item .map_item_inner {margin:5px;}
+
+*/
