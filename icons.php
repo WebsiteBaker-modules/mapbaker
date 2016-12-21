@@ -35,7 +35,7 @@ echo'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.
 
 
 </script>
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<meta http-equiv="content-type" content="text/html; utf-8"/>
 </head>
 <body>';
 echo '<table border="0"><tr>';

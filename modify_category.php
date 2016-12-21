@@ -86,7 +86,7 @@ $icon = $admin->strip_slashes($fetch_category['icon']);
                 else
                 {
                         document.getElementById("icon_id").value= "default";
-                        document.getElementById("icon_preview").src="http://maps.google.com/mapfiles/marker.png";
+                        document.getElementById("icon_preview").src="https://maps.google.com/mapfiles/marker.png";
                 }
         }
 </script>

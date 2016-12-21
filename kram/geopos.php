@@ -11,7 +11,7 @@
 
 <link href="geopos.css" rel="stylesheet" type="text/css" media="all"/>
 <!--[if IE]><style type="text/css"> #outer{word-wrap:break-word;} </style><![endif]-->
-<script src="http://maps.google.com/maps?file=api&amp;v=2" type="text/javascript"></script>
+<script src="https://maps.google.com/maps?file=api&amp;v=2" type="text/javascript"></script>
 <script src="geoscript.js" type="text/javascript"></script>
 <script src="setfocus.js" type="text/javascript"></script>
 </head>

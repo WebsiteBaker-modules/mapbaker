@@ -46,7 +46,7 @@ echo '<noscript><b>JavaScript must be enabled in order for you to use Google Map
       try again.
 </noscript>';
 
-echo '<script type="text/javascript" src="http://www.google.com/jsapi?key='.$gmkey.'"></script>
+echo '<script type="text/javascript" src="https://www.google.com/jsapi?key='.$gmkey.'"></script>
 <script type="text/javascript">
     //<![CDATA[
 
@@ -153,7 +153,7 @@ echo '<script type="text/javascript" src="http://www.google.com/jsapi?key='.$gmk
                                   break;
                                 case 'custom':
                                                 echo '
-                var cat'.$cat['cat_id'].'Icon = buildIcon(20,\''.$cat['icon_url'].'\',\'http://maps.google.com/mapfiles/kml/pal2/icon0s.png\');
+                var cat'.$cat['cat_id'].'Icon = buildIcon(20,\''.$cat['icon_url'].'\',\'https://maps.google.com/mapfiles/kml/pal2/icon0s.png\');
 ';
                                   break;
                                 default:

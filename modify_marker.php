@@ -101,7 +101,7 @@ if(intval($latitude)==0 && intval($longitude)==0) {
  echo '<div id="map" style="width: 460px; height: 400px; border: 1px solid #000000;"></div>'; 
 
 //build template
-echo '<script type="text/javascript" src="http://www.google.com/jsapi?key='.$gmkey.'"></script>';
+echo '<script type="text/javascript" src="https://www.google.com/jsapi?key='.$gmkey.'"></script>';
 echo '<script type="text/javascript">
 
                 function updateMarker()
